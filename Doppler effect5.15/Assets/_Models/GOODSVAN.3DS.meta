@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 797dbda357a69ef4a91724c3fdce524c
+timeCreated: 1543994456
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: FoAlmado
+    100002: FoBogie
+    100004: FoBogie1
+    100006: Foboot
+    100008: FoCConet
+    100010: FoChasis
+    100012: FoCoupli
+    100014: FoDoors
+    100016: FoFloor
+    100018: FoGear1
+    100020: FoGear2
+    100022: FoGear3
+    100024: FoGear4
+    100026: FoTech
+    100028: Fowind01
+    100030: FoWind11
+    100032: FoWind12
+    100034: FoWind13
+    100036: FoWind14
+    100038: Fowind22
+    100040: FoWind23
+    100042: FoWind25
+    100044: FoWind27
+    100046: FoWind28
+    100048: //RootNode
+    400000: FoAlmado
+    400002: FoBogie
+    400004: FoBogie1
+    400006: Foboot
+    400008: FoCConet
+    400010: FoChasis
+    400012: FoCoupli
+    400014: FoDoors
+    400016: FoFloor
+    400018: FoGear1
+    400020: FoGear2
+    400022: FoGear3
+    400024: FoGear4
+    400026: FoTech
+    400028: Fowind01
+    400030: FoWind11
+    400032: FoWind12
+    400034: FoWind13
+    400036: FoWind14
+    400038: Fowind22
+    400040: FoWind23
+    400042: FoWind25
+    400044: FoWind27
+    400046: FoWind28
+    400048: //RootNode
+    2100000: Glases
+    2100002: Green
+    2100004: IntDoors
+    2100006: Black
+    2100008: Metal
+    2300000: FoAlmado
+    2300002: FoBogie
+    2300004: FoBogie1
+    2300006: Foboot
+    2300008: FoCConet
+    2300010: FoChasis
+    2300012: FoCoupli
+    2300014: FoDoors
+    2300016: FoFloor
+    2300018: FoGear1
+    2300020: FoGear2
+    2300022: FoGear3
+    2300024: FoGear4
+    2300026: FoTech
+    2300028: Fowind01
+    2300030: FoWind11
+    2300032: FoWind12
+    2300034: FoWind13
+    2300036: FoWind14
+    2300038: Fowind22
+    2300040: FoWind23
+    2300042: FoWind25
+    2300044: FoWind27
+    2300046: FoWind28
+    3300000: FoAlmado
+    3300002: FoBogie
+    3300004: FoBogie1
+    3300006: Foboot
+    3300008: FoCConet
+    3300010: FoChasis
+    3300012: FoCoupli
+    3300014: FoDoors
+    3300016: FoFloor
+    3300018: FoGear1
+    3300020: FoGear2
+    3300022: FoGear3
+    3300024: FoGear4
+    3300026: FoTech
+    3300028: Fowind01
+    3300030: FoWind11
+    3300032: FoWind12
+    3300034: FoWind13
+    3300036: FoWind14
+    3300038: Fowind22
+    3300040: FoWind23
+    3300042: FoWind25
+    3300044: FoWind27
+    3300046: FoWind28
+    4300000: FoWind27
+    4300002: FoWind25
+    4300004: FoWind23
+    4300006: Fowind22
+    4300008: FoWind14
+    4300010: FoWind13
+    4300012: FoWind12
+    4300014: FoWind11
+    4300016: Fowind01
+    4300018: FoTech
+    4300020: FoWind28
+    4300022: FoFloor
+    4300024: Foboot
+    4300026: FoChasis
+    4300028: FoAlmado
+    4300030: FoBogie1
+    4300032: FoCConet
+    4300034: FoBogie
+    4300036: FoGear3
+    4300038: FoGear4
+    4300040: FoGear2
+    4300042: FoGear1
+    4300044: FoDoors
+    4300046: FoCoupli
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
