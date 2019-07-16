@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 01f7461dabff2634bae69249e465558b
+timeCreated: 1510665028
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: DM_Choroidea_Left
+    100002: DM_Choroidea_Right
+    100004: DM_Cornea
+    100006: DM_Corpusciliare_Iris_Left
+    100008: DM_Corpusciliare_Iris_Right
+    100010: DM_Corpusciliare_Left
+    100012: DM_Corpusciliare_Right
+    100014: DM_Corpusvitreum
+    100016: DM_Iris
+    100018: DM_Lenscrystallina
+    100020: DM_nerve_
+    100022: DM_nerve_Left
+    100024: DM_Rectus muscle
+    100026: DM_Retina_Left
+    100028: DM_Retina_Right
+    100030: DM_Sclera_Left
+    100032: DM_Sclera_Right
+    100034: //RootNode
+    400000: DM_Choroidea_Left
+    400002: DM_Choroidea_Right
+    400004: DM_Cornea
+    400006: DM_Corpusciliare_Iris_Left
+    400008: DM_Corpusciliare_Iris_Right
+    400010: DM_Corpusciliare_Left
+    400012: DM_Corpusciliare_Right
+    400014: DM_Corpusvitreum
+    400016: DM_Iris
+    400018: DM_Lenscrystallina
+    400020: DM_nerve_
+    400022: DM_nerve_Left
+    400024: DM_Rectus muscle
+    400026: DM_Retina_Left
+    400028: DM_Retina_Right
+    400030: DM_Sclera_Left
+    400032: DM_Sclera_Right
+    400034: //RootNode
+    2300000: DM_Choroidea_Left
+    2300002: DM_Choroidea_Right
+    2300004: DM_Cornea
+    2300006: DM_Corpusciliare_Iris_Left
+    2300008: DM_Corpusciliare_Iris_Right
+    2300010: DM_Corpusciliare_Left
+    2300012: DM_Corpusciliare_Right
+    2300014: DM_Corpusvitreum
+    2300016: DM_Iris
+    2300018: DM_Lenscrystallina
+    2300020: DM_nerve_
+    2300022: DM_nerve_Left
+    2300024: DM_Rectus muscle
+    2300026: DM_Retina_Left
+    2300028: DM_Retina_Right
+    2300030: DM_Sclera_Left
+    2300032: DM_Sclera_Right
+    3300000: DM_Choroidea_Left
+    3300002: DM_Choroidea_Right
+    3300004: DM_Cornea
+    3300006: DM_Corpusciliare_Iris_Left
+    3300008: DM_Corpusciliare_Iris_Right
+    3300010: DM_Corpusciliare_Left
+    3300012: DM_Corpusciliare_Right
+    3300014: DM_Corpusvitreum
+    3300016: DM_Iris
+    3300018: DM_Lenscrystallina
+    3300020: DM_nerve_
+    3300022: DM_nerve_Left
+    3300024: DM_Rectus muscle
+    3300026: DM_Retina_Left
+    3300028: DM_Retina_Right
+    3300030: DM_Sclera_Left
+    3300032: DM_Sclera_Right
+    4300000: DM_Choroidea_Right
+    4300002: DM_Retina_Left
+    4300004: DM_Retina_Right
+    4300006: DM_Choroidea_Left
+    4300008: DM_Sclera_Right
+    4300010: DM_Lenscrystallina
+    4300012: DM_Corpusvitreum
+    4300014: DM_Rectus muscle
+    4300016: DM_Cornea
+    4300018: DM_Sclera_Left
+    4300020: DM_Corpusciliare_Iris_Right
+    4300022: DM_nerve_Left
+    4300024: DM_Iris
+    4300026: DM_Corpusciliare_Iris_Left
+    4300028: DM_nerve_
+    4300030: DM_Corpusciliare_Left
+    4300032: DM_Corpusciliare_Right
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DM_Choroidea_Left
+    second: {fileID: 2100000, guid: 5d103e48e0deeb54ca3c3330283e8cbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DM_Choroidea_Right
+    second: {fileID: 2100000, guid: 9eda1f488b69bae4fac6a686475629d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DM_Corpusciliare
+    second: {fileID: 2100000, guid: e747ece5cd907224e84b942a552d006a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DM_Rectus muscle
+    second: {fileID: 2100000, guid: e6bb9e9e362108a4fa85b03c815f19d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DM_Retina_Left
+    second: {fileID: 2100000, guid: a440c2ca6895c2641b69309d008013db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DM_Retina_Right
+    second: {fileID: 2100000, guid: 383107d71c486b848ac9d0657a046076, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DM_Sclera_Left
+    second: {fileID: 2100000, guid: 058386cbca3d6a24392a8a0aacc8ba3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DM_Sclera_Right
+    second: {fileID: 2100000, guid: 4f36230034238ba4a8fd06b937cf062a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DM_Translucent
+    second: {fileID: 2100000, guid: e7e2e22ffbc67c84eb790b82650db861, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DM_nerve
+    second: {fileID: 2100000, guid: b388e50288d49354b8235c017f3c6733, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
